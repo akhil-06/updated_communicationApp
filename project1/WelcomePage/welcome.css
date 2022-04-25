@@ -1,0 +1,14 @@
+.header {
+  text-align: center;
+}
+
+.header div button {
+  width: 8rem;
+  border-radius: 0.5rem;
+  height: 2rem;
+}
+
+.header div button a {
+  text-decoration: none;
+  color: black;
+}
